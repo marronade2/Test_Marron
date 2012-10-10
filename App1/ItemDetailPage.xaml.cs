@@ -27,6 +27,9 @@ namespace App1
         public ItemDetailPage()
         {
             this.InitializeComponent();
+
+            //We need to add this line!!!
+            this.InitializeComponent();
         }
 
         /// <summary>
